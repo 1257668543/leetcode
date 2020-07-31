@@ -8,3 +8,15 @@ cd 进入目录
 pwd 当前的绝对物理路径
 du -hs 文件名/ 查看文件大小
 cat 文件名 输出文件
+
+git add .
+git commit -m ''
+git push origin master
+
+git pull origin master
+yarn 安装依赖
+
+1.  删除node_modules
+    git rm
+2. .gitignore
+3. 提交删除
